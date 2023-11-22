@@ -1,5 +1,5 @@
 '''
-
+author Matthew McCravy
 To run, simply type:
 
 $ python quick_register.py
